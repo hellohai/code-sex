@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Organized documentation for your digital products
 
 == Description ==
-Easily create and manage documentation for your digital products in a central location.
+Easily add code syntax highlighting to pages, blog posts, whatever...sex up your code a bit.
 
 
 = Plugin Features =
